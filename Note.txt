@@ -1,0 +1,10 @@
+In mobile first Approach
+
+This is a grid website using HTML CSS grid
+
+complete whole website using grid
+
+
+Main Idea in here is to design and code a website small mobile
+devices first and then code for the larger screen
+small > medium > large
